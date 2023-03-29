@@ -1,4 +1,7 @@
 # resultadoSoma
+
+Desenvolvido em C ou Em JS com HTLM para melhor visualização
+
 Observe o trecho de código abaixo:
 
 int INDICE = 13, SOMA = 0, K = 0;
